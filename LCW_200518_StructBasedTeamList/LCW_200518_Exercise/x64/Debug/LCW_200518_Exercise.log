@@ -1,0 +1,3 @@
+﻿  fuction.cpp
+C:\Users\USER\Desktop\채채\프로젝트\C\LCW_200518_StructBasedTeamList\LCW_200518_Exercise\Team.h(26,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Team' 왼쪽은 무시됩니다.
+  LCW_200518_Exercise.vcxproj -> C:\Users\USER\Desktop\채채\프로젝트\C\LCW_200518_StructBasedTeamList\x64\Debug\LCW_200518_Exercise.exe
